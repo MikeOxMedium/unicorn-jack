@@ -21,7 +21,8 @@ def instructions():
     print()
     print("The rules of the game go here")
     print()
-    return""
+    return ""
+
 
 def num_check(question, low, high):
     error = "PLease enter a whole number between 1 and 10\n"
